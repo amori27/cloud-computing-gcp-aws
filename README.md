@@ -1,4 +1,6 @@
 # Cloud Computing GCP & AWS
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 Infrastructure as Code (IaC) templates and deployment scripts for Google Cloud Platform and Amazon Web Services using Terraform, Python, and cloud-native services.
 
