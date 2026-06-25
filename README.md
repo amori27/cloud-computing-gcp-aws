@@ -22,7 +22,7 @@ Comprehensive cloud infrastructure project featuring Terraform templates for GCP
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/cloud-computing-gcp-aws.git
+git clone https://github.com/amori27/cloud-computing-gcp-aws.git
 cd cloud-computing-gcp-aws
 pip install -r requirements.txt
 terraform init
